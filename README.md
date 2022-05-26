@@ -1,0 +1,2 @@
+# stupaid.github.io
+StuPaid
