@@ -1,2 +1,2 @@
-# stupaid.github.io
+# StuPaid
 StuPaid
